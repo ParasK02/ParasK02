@@ -1,10 +1,11 @@
 ### Hi there 👋
+My name is Paras Kumar and I'm an aspiring web developer and a 4th year Electrical Engineering student at York University from Toronto Canada. 
 
 About me:
-🌱 I’m currently learning React and React Naitve
-🤔 I’m looking for 2023-2024 COOP opportunities
-📫 [Email me!](mailto:parask02@my.yorku,ca?subject=[GitHub]%20Source%20Han%20Sans)
-💬 Message me on [Linkedin](https://www.linkedin.com/in/paras-kumar000/)
+- 🌱 I’m currently learning React and React Naitve
+- 🤔 I’m looking for 2023-2024 COOP opportunities
+- 📫 [Email me!](mailto:parask02@my.yorku,ca?subject=[GitHub]%20Source%20Han%20Sans)
+- 💬 Or Message me on [Linkedin](https://www.linkedin.com/in/paras-kumar000/)
 
 <!--
 **ParasK02/ParasK02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
