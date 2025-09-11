@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Paras Kumar and I'm an aspiring web developer and a 4th year Electrical Engineering student at York University from Toronto Canada. 
+My name is Paras Kumar, and I'm an aspiring web developer and a recent graduate in computer engineering at York University in Toronto, Canada. 
 
 About me:
 - 🌱 I’m currently learning React.Js, Next.Js and SQL
