@@ -3,7 +3,7 @@ My name is Paras Kumar, and I'm an aspiring web developer and a recent graduate 
 
 About me:
 - 🌱 I’m currently learning React.Js, Next.Js and SQL
-- 🤔 I’m looking for 2025 new graduate opportunities
+- 🤔 I’m looking for 2026 new graduate opportunities
 - 📫 [Email me!](mailto:parask02@my.yorku,ca?subject=[GitHub]%20Source%20Han%20Sans)
 - 💬 Or Message me on [Linkedin](https://www.linkedin.com/in/paras-kumar000/)
 
